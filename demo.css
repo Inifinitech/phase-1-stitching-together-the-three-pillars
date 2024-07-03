@@ -23,14 +23,15 @@ article.media-post > p {
 }
 
 article.media-post > header {
-  padding: 1em 2em;
+  padding: 1em 2rem;
   background-color: rgb(225,232,237);
 }
 
-article.media-post > footer {
+article.media-post > footer{
   color: rgb(170,184,194);
 }
 
 article.media-post > footer ul {
   list-style-type: none;
+  cursor: pointer;
 }
